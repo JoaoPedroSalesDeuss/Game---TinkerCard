@@ -1,2 +1,2 @@
-# Game---TinkerCard
+# Game - TinkerCard
 Trabalho TinkerCard  - Puc Minas
